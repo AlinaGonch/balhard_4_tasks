@@ -6,7 +6,7 @@
 
 
 def get_unique_in_list(some_list: list) -> set:
-    result =set(some_list)
+    result = set(some_list)
     return result
 
 
